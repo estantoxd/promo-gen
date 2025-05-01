@@ -1,1 +1,3 @@
 # promo-gen
+
+eğitim amaçlıdır.
